@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">Minuman</string>
+
+    <string-array name="data_menu">
+        <item>Alpukat</item>
+        <item>Apel</item>
+        <item>Jeruk</item>
+        <item>Mangga</item>
+        <item>Melon</item>
+        <item>Naga</item>
+        <item>Nanas</item>
+        <item>Pepaya</item>
+        <item>Pisang</item>
+        <item>Semangka</item>
+        <item>Sirsak</item>
+        <item>Stroberi</item>
+
+    </string-array>
+</resources>
